@@ -1,0 +1,135 @@
+body{
+	font-family:sans-serif;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+  }
+ /*-------
+.heading{
+	position:absolute;
+	top:80px;
+	left:25px;
+	color:#000C66;
+}
+.name{
+	font-family:cursive;
+	font-size:25px;
+	color:white;
+}
+.sec{
+	font-size: 20px;
+	background-color:#DEB887;
+}
+.formhead{
+	color:brown;
+}
+form{
+margin-left:20px;
+color:white;
+}
+input[type="radio"]{
+height:16px;
+width:16px;
+}
+
+.contacting{
+	background-size:cover;
+	background-image:url("https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg");
+	width:1250px;
+    height:550px;
+}
+.hh{
+	color:white;
+}------*/
+
+/*-------banner section----*/
+#banner{
+	background-image:linear-gradient(to right,#e998f5,#5f1782);
+	
+	padding-left:6%;
+}
+.img{
+	padding-left:8%;
+	padding-top:8%;
+}
+	
+.navbar{
+	background-image:linear-gradient(to right,#e998f5,#5f1782);
+}
+.navbar-nav li a{
+	color: black;
+	font-weight: 600;
+}
+
+.promo-title{
+	font-size:40px;
+	font-weight:600;
+	margin-top: 80px;
+}
+#services {
+    padding: 80px 0;
+}
+
+.service-item {
+    margin-bottom: 30px; /* Add margin between service items */
+}
+
+.service-img {
+    width: 100px;
+    margin-top: 20px;
+}
+
+.card {
+    margin-top: 30px; /* Add margin to the card */
+}
+.pagehead{
+	color:brown;
+	text-align:center;
+}
+.trip{
+	padding-top:40px;
+}
+.imging{
+	padding-left:10px;
+	padding-top:60px;
+}
+.discount{
+	color:red;
+}
+.promo-titles{
+	font-size:40px;
+	font-weight:600;
+	margin-top: 80px;
+	color:brown;
+}
+.buydet{
+	font-size:20px;
+	color:green;
+}
+#footer{
+	background-image:linear-gradient(to right,#e998f5,#5f1782);
+	padding-left:6%;
+}
+ul{
+	list-style-type:none;
+}
+
+.histor{
+	text-align:center-left;
+	padding-left:6%;
+	background-color:#FFFFE0;
+	color:brown;
+}
+.title{
+	text-align:center;
+	color:blue;
+}
+.histor{
+	font-family:'Brush Script MT', cursive;
+	font-size:30px;
+}
+.tests{
+	font-family:"Times New Roman",Times,serif;
+	color:#990066;
+}
